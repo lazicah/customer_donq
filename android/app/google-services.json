@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "44399026352",
+    "project_id": "donq-eda66",
+    "storage_bucket": "donq-eda66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44399026352:android:d238c8c657a6f8bd715b75",
+        "android_client_info": {
+          "package_name": "com.donqit.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44399026352-il57ka284teu51tjgo2p0gl6ea4av3se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donqit.customer",
+            "certificate_hash": "252970f2288c4978acabef749e545d17440354cb"
+          }
+        },
+        {
+          "client_id": "44399026352-pp5bjrj9raul18akc36gg090ffgqbg9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fJ5bINro0PqZeqOAqdJquNIVrdlgBj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44399026352-pp5bjrj9raul18akc36gg090ffgqbg9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44399026352:android:11dd63e5ba485057715b75",
+        "android_client_info": {
+          "package_name": "com.donqit.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44399026352-d5evlaph4kpahbul3o1tenu4sbfn0451.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donqit.driver",
+            "certificate_hash": "252970f2288c4978acabef749e545d17440354cb"
+          }
+        },
+        {
+          "client_id": "44399026352-pp5bjrj9raul18akc36gg090ffgqbg9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fJ5bINro0PqZeqOAqdJquNIVrdlgBj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44399026352-pp5bjrj9raul18akc36gg090ffgqbg9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44399026352:android:4cc21829719ee420715b75",
+        "android_client_info": {
+          "package_name": "com.donqit.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44399026352-nbed9k9bate01ijgn9efsemj9u2ca5qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donqit.vendor",
+            "certificate_hash": "252970f2288c4978acabef749e545d17440354cb"
+          }
+        },
+        {
+          "client_id": "44399026352-pp5bjrj9raul18akc36gg090ffgqbg9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fJ5bINro0PqZeqOAqdJquNIVrdlgBj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44399026352-pp5bjrj9raul18akc36gg090ffgqbg9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

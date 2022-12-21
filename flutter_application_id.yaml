@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.donqit.customer"
+    name: "DonQ"
+  ios:
+    id: "com.donqit.customer"
+    name: "DonQ"
